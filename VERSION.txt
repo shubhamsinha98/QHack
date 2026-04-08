@@ -1,0 +1,5 @@
+Package: Cloover GitHub Package
+Branch: codex/cloover-app
+Version: v2
+Commit: d83f9a8
+Generated: 2026-04-08 16:09:12 CEST
